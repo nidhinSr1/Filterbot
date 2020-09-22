@@ -19,9 +19,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Hello {},My Name is {} !. 
+Hello {} 𝑀𝑦 𝑁𝑎𝑚𝑒 𝑖𝑠 𝙰𝚕𝚒𝚊 ✪... 𝐴 𝑃𝑜𝑤𝑒𝑟𝑓𝑢𝑙 𝑇𝑒𝑙𝑒𝑔𝑟𝑎𝑚 𝑃𝑟𝑜𝐵𝑜𝑡 𝑤𝑖𝑡ℎ 𝑙𝑎𝑡𝑒𝑠𝑡 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠 𝑎𝑛𝑑 𝑒𝑎𝑠𝑖𝑒𝑟 𝑐𝑜𝑚𝑚𝑎𝑛𝑑𝑠....
 
-I'm Filter Manager Bot Maintained By [{}](https://t.me/{}). 
+ 
 
 """
 
